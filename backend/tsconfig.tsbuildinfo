@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middlewares/authorization.ts","./src/routes/auth.ts","./src/routes/election.ts"],"version":"5.7.3"}
